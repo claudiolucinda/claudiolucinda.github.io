@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "NEW MATERIAL"
+title: "New Material"
 
 ---
 
