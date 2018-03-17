@@ -1,4 +1,3 @@
-# Projects
 
 ## Topics in Empirical Industrial Organization (in Portuguese)
 
