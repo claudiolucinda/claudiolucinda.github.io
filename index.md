@@ -1,4 +1,7 @@
-New Material
+---
+Title: **NEW MATERIAL**
+---
+
 
 ## Topics in Empirical Industrial Organization (in Portuguese)
 
