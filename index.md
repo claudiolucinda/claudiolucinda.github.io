@@ -1,5 +1,7 @@
 ---
+layout: archive
 title: "NEW MATERIAL"
+
 ---
 
 
