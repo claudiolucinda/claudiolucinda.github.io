@@ -1,4 +1,4 @@
-# New Material
+New Material
 
 ## Topics in Empirical Industrial Organization (in Portuguese)
 
