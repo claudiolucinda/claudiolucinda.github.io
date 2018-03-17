@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Claudio Lucinda / GitHub Webpage"
+title                    : "Claudio Lucinda -- GitHub Webpage"
 title_separator          : "-"
 name                     : &name "Claudio Lucinda"
 description              : &description "Associate Professor in Economics, USP"
