@@ -12,3 +12,7 @@ title: "New Material"
 ## R Applied to Investments (in Portuguese)
 
 - [Lecture Notes and R Codes for an Undergraduare Course I give at USP](https://github.com/claudiolucinda/FinEconBras)
+
+## R Package for Brazilian Fixed Income Bonds
+
+- [R Package for Pricing, getting YTM, Duration and Convexity for Brazilian Bonds](https://github.com/claudiolucinda/FixedIncomeBR)
