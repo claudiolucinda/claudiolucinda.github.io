@@ -17,10 +17,13 @@ Education
 
 Work experience
 ======
-* 2013-Present: Associate Professor
+* 2019-Present: Full Professor
   * University of São Paulo
 
-* 2010-2013: Assistant Professor Assistant
+* 2013-2018: Associate Professor
+  * University of São Paulo
+
+* 2010-2013: Assistant Professor 
   * University of São Paulo
 
 * 2005-2010: Lecturer
