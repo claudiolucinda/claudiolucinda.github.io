@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Claudio Lucinda GitHub Page"
 title_separator          : "-"
 name                     : &name "Claudio Lucinda"
-description              : &description "Associate Professor in Economics, USP"
+description              : &description "Full Professor of Economics, USP"
 url                      : https://claudiolucinda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "claudiolucinda.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Claudio Lucinda"
   avatar           : "ImageCRL.png"
-  bio              : "Associate Professor in Economics"
-  location         : "Ribeirão Preto - Brazil"
+  bio              : "Full Professor of Economics"
+  location         : "São Paulo - Brazil"
   employer         : "University of São Paulo"
   googlescholar    : "https://scholar.google.com.br/citations?user=LwqzjmUAAAAJ&hl=pt-BR"
-  email            :
+  email            : "claudiolucinda@usp.br"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/claudiolucinda/"
   orcid            : "https://orcid.org/0000-0002-2190-9497"
   pinterest        :
   soundcloud       :
