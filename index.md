@@ -7,7 +7,7 @@ title: "New Material"
 
 ## Topics in Empirical Industrial Organization (in Portuguese)
 
-- [Lecture Notes and Codes for a short(ish) Graduate Course I give at USP](https://github.com/claudiolucinda/Topics_EIO)
+- [Lecture Notes and Codes for a Graduate Course I give at USP](https://github.com/claudiolucinda/Topics_EIO)
 
 ## R Applied to Investments (in Portuguese)
 
